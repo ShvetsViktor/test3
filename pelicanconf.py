@@ -1,10 +1,10 @@
 AUTHOR = 'viktor'
 SITENAME = 'test3'
-SITEURL = ""
+SITEURL = "https://shvetsviktor.github.io/test3"
 
 PATH = "content"
 
-THEME = 'notmyidea'
+THEME = 'simple'
 
 TIMEZONE = 'Europe/Rome'
 
