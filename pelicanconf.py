@@ -4,6 +4,8 @@ SITEURL = ""
 
 PATH = "content"
 
+THEME = 'notmyidea'
+
 TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
